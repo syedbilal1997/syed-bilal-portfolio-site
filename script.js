@@ -181,7 +181,7 @@ const blogConfig = {
       category: "PCF · Code Apps",
       date: "Aug 7, 2026",
       readTime: "7 min read",
-      cover: "https://raw.githubusercontent.com/syedbilal1997/SmartLookup-PCF/main/docs/screenshots/hero.png",
+      cover: "assets/covers/blog-code-app-to-pcf.png",
     },
     {
       title: "Xrm.Copilot — calling the assistant from your model-driven form scripts",
@@ -191,7 +191,7 @@ const blogConfig = {
       category: "PCF · Copilot",
       date: "Jun 29, 2026",
       readTime: "6 min read",
-      cover: "https://raw.githubusercontent.com/syedbilal1997/SmartLookup-PCF/main/docs/screenshots/hero.png",
+      cover: "https://cdn.hashnode.com/uploads/covers/6a1d06659bd008b40d133823/9d96f140-6b48-481b-94ae-933f69f0aa4e.jpg",
     },
     {
       title: "SmartLookup — how I taught a PCF to read your Quick View Forms",
